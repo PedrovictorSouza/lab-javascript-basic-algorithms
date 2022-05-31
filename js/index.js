@@ -1,3 +1,4 @@
+
 // Iteration 1: Names and Input
 let hacker1 = "Bob";
 
@@ -82,6 +83,5 @@ function palindrome(str) {
 }
 
 console.log(palindrome("ava"));
-
 
 
